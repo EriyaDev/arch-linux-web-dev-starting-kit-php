@@ -22,8 +22,8 @@ An all-in-one automated setup script to configure a local web development enviro
 
 1. **Clone this repository:**
    ```bash
-   git clone <your-repository-url>
-   cd <repository-folder-name>
+   git clone https://github.com/EriyaDev/arch-linux-web-dev-starting-kit-php.git
+   cd arch-linux-web-dev-starting-kit-php
    ```
    *(If you downloaded the script file directly, skip to step 2).*
 
